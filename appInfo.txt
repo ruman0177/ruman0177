@@ -1,0 +1,1 @@
+[{"appName":"YouTube","appPackage":"com.google.android.youtube","appVersion":"20.02.40"},{"appName":"Free Fire","appPackage":"com.dts.freefireth","appVersion":"1.108.1"},{"appName":"Sportzfy","appPackage":"app.blaze.sportzfy","appVersion":"6.8"}]
